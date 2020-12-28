@@ -24,7 +24,7 @@ Model_Change_Detection/
 - **MATLAB**: [2019a or later](https://www.mathworks.com/products/matlab.html)
 
 ## Result
-**There are 29 data in Landmine Dataset, data 1~15 were collected form surfaces with relatively high foliated and data 16~29 were colledted from regions that are bare earth or desert. The simulation result demonstrated that the model change detection system was able to detect the change in the underlying distrubution of the data.**
+**There are 29 data in Landmine Dataset, data 1/~15 were collected form surfaces with relatively high foliated and data 16~29 were colledted from regions that are bare earth or desert. The simulation result demonstrated that the model change detection system was able to detect the change in the underlying distrubution of the data.**
 ![demo result](https://github.com/Hong-Ming/Model_Change_Detection/blob/main/result.png)
 
 ## Contributor
